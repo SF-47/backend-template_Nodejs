@@ -1,2 +1,13 @@
 node_modules
 .env
+
+
+
+
+
+# git init                → start git
+# git add .               → select files
+# git commit -m "..."     → save snapshot
+# git remote add origin   → connect to GitHub
+# git branch -M main      → set branch
+# git push -u origin main → upload project
