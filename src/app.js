@@ -8,7 +8,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.get('/', (req, res) => {
-  res.json({ message: 'API is running :)' });
+  res.json({ message: 'API is running 313' });
 });
 
 module.exports = app;
